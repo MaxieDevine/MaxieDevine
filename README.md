@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @MaxieDevine
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Andrzej
+- 👀 I’m interested in Python and Project Management
+
